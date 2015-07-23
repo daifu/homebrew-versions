@@ -1,6 +1,6 @@
 class Elasticsearch13 < Formula
   homepage "http://www.elastic.c://www.elastic.co/products/elasticsearch"
-  url "https://download.elastic.co/elasticsearch/elasticsearch/elasticsearch-1.3.9.tar.gz"
+  url "https://download.elastic.co/elasticsearch/elasticsearch/elasticsearch-1.3.8.tar.gz"
   sha256 "9b12ceba35c4a48e3e0fdc93f0676917d10acb5ee9264e9f2f9efc1a73e540bd"
 
   bottle do
